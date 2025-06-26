@@ -6,6 +6,8 @@
     <p align="center">League of Legends CLI Artist</p>
 </p>
 
+https://github.com/user-attachments/assets/fa431b4e-b4d0-4cba-af73-1f1c21124350
+
 ## Getting Started
 
 After cloning the repository with `git clone`, you can build the project using `go build .` and the executable file will be created. 
